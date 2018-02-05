@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/charliezhu/app/scala/spark01/target/scala-2.11/spark01_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rdd01$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/rdd01$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rdd01$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/rdd01$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rdd01$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/rdd01$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rdd01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/rdd01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rdd01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/rdd01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JDBCSink.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/charliezhu/app/scala/spark01/target/scala-2.11/classes/JDBCSink.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
